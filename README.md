@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Jigyasa Tomar
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with a keen eye for design and a love for crafting beautiful and user-friendly web applications.
+Welcome to my GitHub profile! I'm a passionate frontend developer with skills HTML, CSS, JavaScript, and React.js. Dedicated to creating intuitive and visually appealing interfaces. Enthusiastic about leveraging new technologies to build impactful web applications.
 
-![Banner Image](https://example.com/your-banner-image.jpg)
 
 ---
 
 ## About Me
 
-- 🎨 **Frontend Developer**: Crafting beautiful and responsive web interfaces.
+- 🎨 **Frontend Developer**:Creating intuitive and visually compelling web interfaces that enhance user interaction and satisfaction..
 - 💻 **Languages & Frameworks**: HTML, CSS, JavaScript, Tailwind CSS, React.
 - 🎨 **Design Philosophy:** I believe in creating clean, responsive, and accessible designs that provide an optimal user experience across all devices.
 - 🌱 Always learning and experimenting with new technologies.
@@ -28,28 +27,10 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a keen ey
 
 ---
 
-## Featured Projects
-
-### [Project Name 1](https://github.com/yourproject1)
-![Project Image](https://example.com/project1-image.jpg)
-- **Description:** A brief description of what the project does.
-- **Tech Stack:** HTML, CSS, JavaScript, React.js
-
-### [Project Name 2](https://github.com/yourproject2)
-![Project Image](https://example.com/project2-image.jpg)
-- **Description:** A brief description of what the project does.
-- **Tech Stack:** HTML, Tailwind CSS, JavaScript, React.js
-
-### [Project Name 3](https://github.com/yourproject3)
-![Project Image](https://example.com/project3-image.jpg)
-- **Description:** A brief description of what the project does.
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, React.js
-
----
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jigyasa-tomar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
