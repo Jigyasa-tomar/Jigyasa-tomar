@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with skills HT
 - 🎨 **Frontend Developer**:Creating intuitive and visually compelling web interfaces that enhance user interaction and satisfaction..
 - 💻 **Languages & Frameworks**: HTML, CSS, JavaScript, Tailwind CSS, React.
 - 🎨 **Design Philosophy:** I believe in creating clean, responsive, and accessible designs that provide an optimal user experience across all devices.
-- 🌱 Always learning and experimenting with new technologies.
+- 🚀 Always exploring new technologies and eager to contribute to innovative projects.
 - 📫 Feel free to reach out via (jigyasatomar3409@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jigyasa-tomar).
 - 🤝 Open to collaborations on exciting projects.
 
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with skills HT
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
